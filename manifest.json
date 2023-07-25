@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "CFThemes",
+    "version": "1.0",
+    "description": "turns codeforces website to dark mode website.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "storage",
+      "scripting",
+      "webNavigation"
+    ],
+    "content_scripts": [
+        {
+          "matches": ["https://codeforces.com/*"],
+          "js": ["contentscript.js"]
+        }
+    ],
+    "host_permissions": [
+        "https://codeforces.com/*"
+    ]
+  }
+  

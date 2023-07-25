@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    min-width: 160px;
+    min-height: 132px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 1rem;
+}
+
+h1 {
+    font-size: 1.5rem;
+    font-family: 'Signika Negative', sans-serif;
+    text-align: center;
+
+}
+
+.yellow {
+    color: rgb(255, 213, 0);
+}
+
+.blue {
+    color: rgb(41, 39, 29);
+}
+
+p {
+    font-family: "Raleway", sans-serif;
+    font-size: 0.75rem;
+}
+.buttons{
+    display: flex;
+}
+.button {
+    margin: 8px;
+    position: relative;
+    height: 2rem;
+    width: 4rem;
+    border-radius: 25px;
+    transition: 1s;
+    font-family: 'Signika Negative', sans-serif;
+}
+#switch1{
+    background-color: #fffd6ac9;
+}
+#switch2{
+    background-color: #23202825;
+}
+
+.half {
+    position: absolute;
+    width: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+}
+
+.circle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    pointer-events: none;
+    transition: 1s;
+
+}
+#circle1{
+    background-color: rgb(255, 213, 0);
+}
+#circle2{
+    background-color: rgb(41, 39, 29);
+}
+
+@keyframes moveCircleRight {
+    0% {
+        left: 0;
+        transform: translateX(0);
+    }
+
+    100% {
+        left: 100%;
+        transform: translateX(-100%);
+    }
+}
+
+@keyframes moveCircleLeft {
+    0% {
+        left: 100%;
+        transform: translateX(-100%);
+    }
+
+    100% {
+        left: 0;
+        transform: translateX(0);
+    }
+}
