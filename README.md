@@ -9,4 +9,6 @@ To enable this extension
  - And all set, you are ready to go.
 To check the extension open codeforces website and click on the extesnion icon. Now you can enable your favourite them using the switch.
 Below is a glance of the themes -
-![Screenshot 2023-07-26 001937](https://github.com/harsh-nitsgr/CFThemes/assets/91006836/bff026a2-da4a-4cbe-a973-24c0256c1520)
+
+![Screenshot 2023-07-26 190504](https://github.com/harsh-nitsgr/CFThemes/assets/91006836/bf010476-ec1b-4775-b03c-7862806fe149)
+![Screenshot 2023-07-26 190527](https://github.com/harsh-nitsgr/CFThemes/assets/91006836/332a1ba6-07bc-4d56-ae45-352871e99ab6)
