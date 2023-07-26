@@ -1,6 +1,6 @@
 # CFThemes - Add dark themes to codeforces website.
 This is a chrome extension which adds themes to the codeforces website.
-To enable this extension
+To enable this extension follow the steps below -
  - You need to download all the above files and put them inside a folder
  or you can directly download them form here [CFThemes.zip](https://github.com/harsh-nitsgr/CFThemes/files/12173106/CFThemes.zip)
  and extrct to a folder.
@@ -8,7 +8,7 @@ To enable this extension
  - Enable the developer mode and click load unpacked.
  - Locate to the folder you have put all the files.
  - And all set, you are ready to go.
-To check the extension open codeforces website and click on the extesnion icon. Now you can enable your favourite them using the switch.
+To check the extension, open codeforces website and click on the extesnion icon. Now you can enable your favourite theme using the switch.
 Below is a glance of the themes -
 
 ![Screenshot 2023-07-26 190504](https://github.com/harsh-nitsgr/CFThemes/assets/91006836/bf010476-ec1b-4775-b03c-7862806fe149)
