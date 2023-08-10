@@ -6,7 +6,7 @@ To enable this extension follow the steps below -
  and extract to a folder.
  - Move to your chrome browser extensions page or simpaly hit chrome://extensions/
  - Enable the developer mode and click load unpacked on the top left corner.
- - Locate to the folder you have put all the files.
+ - Locate to the folder where you have put all the files.
  - And all set, you are ready to go.
 To check the extension, open codeforces website and click on the extesnion icon. Now you can enable your favourite theme using the switch.
 Below is a glance of the themes -
