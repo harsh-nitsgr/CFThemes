@@ -5,7 +5,7 @@ To enable this extension follow the steps below -
  or you can directly download them form here [CFThemes.zip](https://github.com/harsh-nitsgr/CFThemes/files/12173106/CFThemes.zip)
  and extract to a folder.
  - Move to your chrome browser extensions page or simpaly hit chrome://extensions/
- - Enable the developer mode and click load unpacked on top left corner.
+ - Enable the developer mode and click load unpacked on the top left corner.
  - Locate to the folder you have put all the files.
  - And all set, you are ready to go.
 To check the extension, open codeforces website and click on the extesnion icon. Now you can enable your favourite theme using the switch.
