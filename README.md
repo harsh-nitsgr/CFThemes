@@ -8,7 +8,7 @@ To enable this extension follow the steps below -
  - Enable the developer mode and click load unpacked on the top left corner.
  - Locate to the folder where you have put all the files.
  - And all set, you are ready to go.
-To check the extension, open codeforces website and click on the extesnion icon. Now you can enable your favourite theme using the switch.
+To check the extension, open codeforces website and click on the extensions icon. Now you can enable your favourite theme using the switches.
 Below is a glance of the themes -
 
 ![Screenshot 2023-07-26 190504](https://github.com/harsh-nitsgr/CFThemes/assets/91006836/bf010476-ec1b-4775-b03c-7862806fe149)
